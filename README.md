@@ -2,6 +2,10 @@
 
 ## INFO
 
+1. XYZ
+2. Scene, Mesh, Texture, keyframe
+3. threejs, babylonjs, aframejs
+
 ## Tools
 
 1. Meshroom
