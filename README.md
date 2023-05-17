@@ -50,7 +50,7 @@ https://www.youtube.com/watch?v=IN1nyU_CL7A
 ### Libs
 https://github.com/acweathersby/js.blend
 
-### -------- Free 3D Objects
+### -------- Free 3D Objects download
 www.thingiverse.com \
 www.sketchfab.com \
 www.cgtrader.com \
