@@ -49,3 +49,22 @@ https://www.youtube.com/watch?v=IN1nyU_CL7A
 
 ### Libs
 https://github.com/acweathersby/js.blend
+
+### -------- Free 3D Objects
+www.thingiverse.com \
+www.sketchfab.com \
+www.cgtrader.com \
+https://free3d.com \
+www.trbosquid.com \
+https://3dwarehouse.sketchup.com \
+https://pinshape.com \
+https://hum3d.com/free \
+https://done3d.com \
+https://cults3d.com
+
+### ---------Assets
+https://cdnjs.com/ | https://fontawesome.com | http://fontello.com/ | https://fonts.google.com/ |
+### ---------Stock Img
+https://www.pexels.com/ | https://unsplash.com | https://pixabay.com
+### ---------Licence
+[MIT](https://choosealicense.com/licenses/mit/)
