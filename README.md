@@ -9,11 +9,12 @@
 
 ## Tools
 
-1. Meshroom
-2. Aegisoft Photoscan
-3. Reality Capture
-4. http://tridiv.com/
-5. Blender3D
+1. http://tridiv.com/
+2. Blender3D
+3. Meshroom
+4. Aegisoft Photoscan
+5. Reality Capture
+
 
 ## Examples
 
