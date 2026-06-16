@@ -58,6 +58,7 @@ https://icons8.com/preloaders/en/free#
 -->
 
 ### Scripts
+https://unpkg.com/three@0.139.2/build/three.min.js
 https://aframe.io/releases/1.7.1/aframe.min.js
 
 
