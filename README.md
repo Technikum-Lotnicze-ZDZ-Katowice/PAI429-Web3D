@@ -4,7 +4,9 @@
 
 1. Po co implementować 3D na stronach WWW?
 2. Dostępne technologie Web3d: threejs, babylonjs, aframejs
-   ![three](Screenshot_20260617_001511.png)
+   [![three](Screenshot_20260617_001511.png)](https://threejs.org/)
+   [![a-frame](Screenshot_20260617_001531.png)](https://aframe.io/)
+   [![babylonjs](Screenshot_20260617_001619.png)](https://www.babylonjs.com/)
 4. Scena 3D - XYZ
 
 
