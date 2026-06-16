@@ -1,6 +1,6 @@
 # 429-Web3D - 3D na stronach WWW
 
-## Wstęp
+### Wstęp
 
 1. Po co implementować 3D na stronach WWW?
 2. Dostępne technologie Web3d: threejs, babylonjs, aframejs
@@ -13,21 +13,32 @@
 
 5. CSS 3D - http://tridiv.com/
 6. Pojęcia podstawowe - Scene, Mesh, Texture, keyframe
-7. Obiekt 3d
+7. Obiekty 3d
    - [sketchfab.com](https://sketchfab.com/)
    - [thingiverse.com](thingiverse.com)
    - [free 3d.com](https://free3d.com/)
 
-## Tools
-
-1. http://tridiv.com/
+### Tools
 2. Blender3D
 3. Meshroom
 4. Aegisoft Photoscan
 5. Reality Capture
 
+### ZADANIA
 
-## Examples
+#### ZAD42901
+Przygotuj stronę HTML przedstawiającą pojedynczy element HTML (jednokolorowy div/obraz) stale obracający się wokół osi Y
+
+#### ZAD42902
+Przygotuj prostą scenę 3d (np pojedynczy prostopadłościan) i opublikuj ją na publicznym serwerze
+
+#### ZAD42903
+Przygotuj scenę prezentującą obiekt 3D pobrany z darmowego źródła
+
+#### ZAD42904
+Przygotuj witrynę w PHP/MySQL pozwalającą na wysłanie pliku 3d na serwer oraz zapis w bazie danych linku do podstrony przedstawiającej scenę z wybranym modelem 3d. Pozwól na wybór tych linków z listy.
+
+### Examples
 
 https://freefrontend.com/css-3d-examples/
 https://icons8.com/preloaders/en/free#
