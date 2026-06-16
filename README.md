@@ -1,11 +1,17 @@
-# 429-Web3D
+# 429-Web3D - 3D na stronach WWW
 
-## INFO
+## Wstęp
 
-1. XYZ
-2. CSS 3D
-3. Scene, Mesh, Texture, keyframe
-4. threejs, babylonjs, aframejs
+1. Po co implementować 3D na stronach WWW?
+2. Dostępne technologie Web3d: threejs, babylonjs, aframejs
+   ![three](Screenshot_20260617_001511.png)
+4. Scena 3D - XYZ
+
+
+
+5. CSS 3D
+6. Scene, Mesh, Texture, keyframe
+7. 
 
 ## Tools
 
