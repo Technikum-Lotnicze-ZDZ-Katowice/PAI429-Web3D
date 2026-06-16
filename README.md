@@ -57,6 +57,9 @@ https://icons8.com/preloaders/en/free#
 ```
 -->
 
+### Scripts
+https://aframe.io/releases/1.7.1/aframe.min.js
+
 
 ### Tools
 2. Blender3D
