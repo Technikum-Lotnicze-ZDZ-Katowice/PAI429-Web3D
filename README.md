@@ -15,8 +15,8 @@
 6. Pojęcia podstawowe - Scene, Mesh, Texture, keyframe
 7. Obiekt 3d
    - [sketchfab.com](https://sketchfab.com/)
-   - [thingiverse](thingiverse.com)
-   - [free 3d](https://free3d.com/)
+   - [thingiverse.com](thingiverse.com)
+   - [free 3d.com](https://free3d.com/)
 
 ## Tools
 
