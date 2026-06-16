@@ -69,9 +69,9 @@ https://aframe.io/releases/1.7.1/aframe.min.js
 5. Reality Capture
 
 ## Tuts
-https://webkod.pl/kurs-css/lekcje/dzial-4/css3-animowana-karta-3d
-https://webkod.pl/kurs-css/lekcje/dzial-4/css3-animowany-szescian-3d
-https://www.youtube.com/watch?v=IN1nyU_CL7A
+- https://webkod.pl/kurs-css/lekcje/dzial-4/css3-animowana-karta-3d
+- https://webkod.pl/kurs-css/lekcje/dzial-4/css3-animowany-szescian-3d
+- https://www.youtube.com/watch?v=IN1nyU_CL7A
 
 ### Libs
 https://github.com/acweathersby/js.blend
