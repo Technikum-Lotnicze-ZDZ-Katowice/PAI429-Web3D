@@ -11,9 +11,12 @@
 ![blender](Screenshot_20260617_001856.png)
 
 
-5. CSS 3D
-6. Scene, Mesh, Texture, keyframe
-7. 
+5. CSS 3D - http://tridiv.com/
+6. Pojęcia podstawowe - Scene, Mesh, Texture, keyframe
+7. Obiekt 3d
+   - [sketchfab.com](https://sketchfab.com/)
+   - [thingiverse](thingiverse.com)
+   - [free 3d](https://free3d.com/)
 
 ## Tools
 
